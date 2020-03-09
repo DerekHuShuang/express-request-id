@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vurtnec/express-request-id"
+    "url": "https://github.com/DerekHuShuang/express-request-id"
   },
   "keywords": [
     "express",
@@ -18,12 +18,12 @@
     "uuid",
     "aaxis"
   ],
-  "author": "vurtnec",
+  "author": "derek",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vurtnec/express-request-id/issues"
+    "url": "https://github.com/DerekHuShuang/express-request-id/issues"
   },
-  "homepage": "https://github.com/vurtnec/express-request-id",
+  "homepage": "https://github.com/DerekHuShuang/express-request-id",
   "devDependencies": {
     "express": "~4.16.3",
     "mocha": "~5.2.0",
