@@ -1,4 +1,4 @@
-# express-request-id [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
+# @aaxis/express-request-id [![NPM version][npm-image]][npm-url]  
 
 Generate UUID for request and add it to `X-Request-Id` header. In case request contains `X-Request-Id` header, uses its value instead.
 
@@ -45,8 +45,7 @@ This options fields are passed to node-uuid functions directly:
 
 MIT (c) 2020 Derek Hu (derekhu@aaxiscommerce.com)
 
-[npm-url]: https://npmjs.org/package/express-request-id
-[npm-image]: http://img.shields.io/npm/v/express-request-id.svg
+[npm-url]: https://npmjs.org/package/@aaxis/express-request-id
+[npm-image]: http://img.shields.io/npm/v/@aaxis/express-request-id.svg
 
-[travis-url]: https://travis-ci.org/floatdrop/express-request-id
-[travis-image]: http://img.shields.io/travis/floatdrop/express-request-id.svg
+[travis-url]: https://github.com/DerekHuShuang/express-request-id
