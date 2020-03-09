@@ -1,0 +1,36 @@
+{
+  "name": "@aaxis/express-request-id",
+  "version": "1.0.0",
+  "description": "Generate UUID for request and add it to headers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vurtnec/express-request-id"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "request",
+    "id",
+    "uuid",
+    "aaxis"
+  ],
+  "author": "vurtnec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vurtnec/express-request-id/issues"
+  },
+  "homepage": "https://github.com/vurtnec/express-request-id",
+  "devDependencies": {
+    "express": "~4.16.3",
+    "mocha": "~5.2.0",
+    "should": "~13.2.3",
+    "supertest": "~3.3.0"
+  },
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
